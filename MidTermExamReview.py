@@ -1,0 +1,1 @@
+print("Hello! My name is Alexander Perez, I'm a 9th grade student at gull lake highschool.")
